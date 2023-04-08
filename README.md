@@ -26,7 +26,7 @@ Installing the Pygame Module
 
 - Cheats :
   - Press Q on keyboard to add extra 10 points >.<
-- Don't forgent to checkout your score at the end of the game.
+- Don't forget to checkout your score at the end of the game.
 
 
 Warning: Do not delete any files for the smooth running of the game.
